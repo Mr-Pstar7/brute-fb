@@ -1,4 +1,4 @@
-# Tool Bruteforce Account Instagram 
+# Tool For Bruteforce Account Facebook 
 
 ### [+] Created By <a href="https://github.com/Mr-Pstar7">Mr. Pstar7</a>
 
@@ -13,12 +13,11 @@
  pkg install git
  git clone https://github.com/Mr-Pstar7/brute-fb
  cd brute-fb
- pip install -r requirements.txt
  python premium.py
  ```
 ### Or, Use Single Command
 ```
-pkg install python && git clone https://github.com/Mr-Pstar7/brute-fb && cd brute-fb && pip install -r requirements.txt && python premium.py
+pkg install python && git clone https://github.com/Mr-Pstar7/brute-fb && cd brute-fb && python premium.py
 ```
 
 ### Features:
@@ -28,7 +27,7 @@ pkg install python && git clone https://github.com/Mr-Pstar7/brute-fb && cd brut
 4. And others 
 
 ## Screenshots:
-
+Undefined
 
 ### [+] The generated python file will be in python 3.x!
 
